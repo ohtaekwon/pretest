@@ -1,7 +1,7 @@
 ## 📋 사전과제
 
-> 1. 사용자 로그인 구현
-> 2. Todo App API 명세서 작성
+> 1. [사용자 로그인 구현](https://github.com/ohtaekwon/pretest#1-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84)
+> 2. [Todo App API 명세서 작성](https://github.com/ohtaekwon/pretest#2-todo-app-api-%EB%AA%85%EC%84%B8%EC%84%9C-%EC%9E%91%EC%84%B1)
 
 ## 1. 사용자 로그인 구현
 
