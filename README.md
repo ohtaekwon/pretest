@@ -196,3 +196,5 @@ export { AuthContext, AuthProvider };
 ![로그인 상태 유지](./assets/finish.png)
 
 ## 2. ToDo App API 명세서 작성
+
+- [Api 명세서 바로가기](https://github.com/ohtaekwon/pretest/wiki)
